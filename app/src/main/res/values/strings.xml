@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Discover Movie</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="review">Review</string>
+    <string name="author">Author</string>
+    <string name="content">Content</string>
+    <string name="videos">Videos</string>
+    <string name="filter">Filter</string>
+    <string name="name">Name</string>
+</resources>
